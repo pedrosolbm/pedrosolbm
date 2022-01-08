@@ -15,11 +15,6 @@
 <a href="https://discordapp.com/users/188458801844846592">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </a>
-
-<a href="https://www.facebook.com/pedrosolbm">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-</a>
-
 <a href="https://www.reddit.com/user/pedrosolbm/">
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
 </a>
